@@ -1,0 +1,6 @@
+P1;Tony;US;3000
+P2;Messi;VN;1000
+P3;Lia;Kpop;6000
+P4;Steve;UK;1200
+P5;Mouse;SIN;6000
+P6;Jenny;POR;1000
